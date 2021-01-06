@@ -6,3 +6,6 @@ A sample law firm website created for Free Code Camp (https://www.youtube.com/ch
 
 Youtube URL: https://www.youtube.com/watch?v=IPo71JPKUmg
 
+
+> __Note__: this repo has been cloned from [https://github.com/thedevdrawer/sample-law-firm-template](https://github.com/thedevdrawer/sample-law-firm-template) in order to experiment
+> with WordPress development.
